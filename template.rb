@@ -247,6 +247,7 @@ remove_file 'README'
 remove_file 'doc/README_FOR_APP'
 remove_file 'public/index.html'
 remove_file 'app/assets/images/rails.png'
+remove_dir  'test'
 
 # Bundle and run generators
 
