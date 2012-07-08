@@ -71,6 +71,7 @@ gem 'draper'
 # BDD:
 
 gem_group :test do
+  gem 'spork'
   gem 'rspec-rails'
   gem 'turnip'
   gem 'capybara'
